@@ -1,2 +1,2 @@
-# legacy-portal
-Portal legado (repo de teste — lacunas propositais)
+# legacy-portal (TESTE)
+Repo com lacunas propositais para acender achados de postura.
